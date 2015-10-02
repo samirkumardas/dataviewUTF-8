@@ -3,6 +3,8 @@ Javascript encoding method from ArrayBuffer to utf-8 String
 
 How to use?
 ----------
+You will have to add utf8.js file in your project.
+
 I am assuming that You have already input buffer from websocket or ajax 
 
 var dataview = new DataView(buffer);  
