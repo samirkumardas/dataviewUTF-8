@@ -1,5 +1,5 @@
 # dataviewUTF-8
-Javascript encoding method from ArrayBuffer to utf-8 String
+Javascript method for converting ArrayBuffer to utf-8 String
 
 How to use?
 ----------
